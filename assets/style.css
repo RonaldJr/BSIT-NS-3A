@@ -220,3 +220,20 @@ section {
     gap: 1rem;
 }
 
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+}
+
+header {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+}
+
+h1 {
+    margin: 0;
+}
+
