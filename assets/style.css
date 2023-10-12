@@ -620,7 +620,6 @@ body {
     display: inline-block;
 }
 
-/* Style for Contact Info */
 .contact-details {
     text-align: center;
     padding: 20px;
@@ -644,20 +643,13 @@ body {
     margin-right: 10px;
 }
 
-.email-icon {
-    /* Add specific styling for the email icon */
-}
-
-.phone-icon {
-    /* Add specific styling for the phone icon */
-}
 
 .contact-text {
     font-size: 18px;
     font-weight: bold;
 }
 
-/* Style for Links */
+
 .contact-text a {
     text-decoration: none;
     color: #007bff;
